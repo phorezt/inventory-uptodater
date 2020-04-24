@@ -1,0 +1,14 @@
+{
+  "name": "inventory-uptodater",
+  "version": "1.0.0",
+  "description": "Keeping the inventory up to date with entity files in gh org repos by webhooks",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nikek",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
